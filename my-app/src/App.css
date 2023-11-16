@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 200px;
+  margin-left: 350px;
+
+}
+.container {
+  border-width: 1px;
+  border-color: black;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 200px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  }
+
+.cell {
+  height: 100px;
+  width: 100px;
+}
+
+.restartButton {
+  margin-top: 100px;
+  height: 100px;
+  width:200px;
+}
